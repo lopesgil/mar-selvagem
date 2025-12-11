@@ -1,0 +1,8 @@
+---
+title: "Hello, World!"
+description: "First blog post in this project"
+author: "wildsea"
+date: "2025-12-10T22:50:00Z"
+---
+
+Is this thing on?

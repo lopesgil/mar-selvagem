@@ -1,0 +1,6 @@
+format:
+  clean-revealjs:
+    navigation-mode: vertical
+    menu: true
+    progress: true
+search: false
