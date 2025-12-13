@@ -1,6 +1,11 @@
 project:
   type: website
 
+execute:
+  freeze: auto
+
+lang: pt-BR
+
 website:
   title: "Mar Selvagem"
   back-to-top-navigation: true

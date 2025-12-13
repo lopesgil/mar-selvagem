@@ -1,0 +1,10 @@
+---
+title: "Primeiro post em português"
+description: "Uma tentativa de avaliação das configurações de idioma"
+author: "wildsea"
+date: "2025-12-11T04:05:00Z"
+categories:
+  - demo
+---
+
+Um primeiro post em português.

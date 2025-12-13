@@ -4,6 +4,8 @@ description: "An example of most of Quarto's feature"
 author: "wildsea"
 date: "2025-12-10T22:55:00Z"
 jupyter: python3
+categories:
+  - computations
 ---
 
 ## Overview
