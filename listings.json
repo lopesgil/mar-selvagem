@@ -1,6 +1,12 @@
 [
   {
-    "listing": "/blog.html",
+    "listing": "/presentations/index.html",
+    "items": [
+      "/presentations/clean/habits/index.html"
+    ]
+  },
+  {
+    "listing": "/posts/index.html",
     "items": [
       "/posts/2025/12/11-primeiro-pt/index.html",
       "/posts/first/index.html",

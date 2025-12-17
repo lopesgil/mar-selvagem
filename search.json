@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "presentations.html",
-    "href": "presentations.html",
+    "objectID": "presentations/index.html",
+    "href": "presentations/index.html",
     "title": "Presentations",
     "section": "",
-    "text": "View slides in full screen"
-  },
-  {
-    "objectID": "presentations.html#habits",
-    "href": "presentations.html#habits",
-    "title": "Presentations",
-    "section": "",
-    "text": "View slides in full screen"
+    "text": "Habits\n\n\n\n\n\n\nJohn Doe\n\n\n\n\n\n\nSem itens correspondentes\n De volta ao topo"
   },
   {
     "objectID": "index.html",
@@ -28,25 +21,25 @@
     "text": "Is this thing on?\n\n\n\n De volta ao topo"
   },
   {
-    "objectID": "posts/2025/12/11-primeiro-pt/index.html",
-    "href": "posts/2025/12/11-primeiro-pt/index.html",
-    "title": "Primeiro post em português",
-    "section": "",
-    "text": "Um primeiro post em português.\n\n\n\n De volta ao topo"
-  },
-  {
-    "objectID": "blog.html",
-    "href": "blog.html",
+    "objectID": "posts/index.html",
+    "href": "posts/index.html",
     "title": "Bottles",
     "section": "",
     "text": "Ordenar por\n      Padrão\n      \n        Título\n      \n      \n        Data - Mais antigo\n      \n      \n        Data - O mais novo\n      \n      \n        Autor\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nPrimeiro post em português\n\n\n\ndemo\n\n\n\nUma tentativa de avaliação das configurações de idioma\n\n\n\n\n\n11 de dez. de 2025\n\n\nwildsea\n\n\n\n\n\n\n\n\n\n\n\n\nFirst Try\n\n\n\ncomputations\n\n\n\nAn example of most of Quarto’s feature\n\n\n\n\n\n10 de dez. de 2025\n\n\nwildsea\n\n\n\n\n\n\n\n\n\n\n\n\nHello, World!\n\n\n\nreflections\n\n\n\nFirst blog post in this project\n\n\n\n\n\n10 de dez. de 2025\n\n\nwildsea\n\n\n\n\n\nSem itens correspondentes\n De volta ao topo"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
+    "objectID": "about/index.html",
+    "href": "about/index.html",
     "title": "About",
     "section": "",
     "text": "About this site\n\n\n\n De volta ao topo"
+  },
+  {
+    "objectID": "posts/2025/12/11-primeiro-pt/index.html",
+    "href": "posts/2025/12/11-primeiro-pt/index.html",
+    "title": "Primeiro post em português",
+    "section": "",
+    "text": "Um primeiro post em português.\n\n\n\n De volta ao topo"
   },
   {
     "objectID": "posts/first/index.html",
@@ -105,141 +98,141 @@
     "text": "Seaborn\n\n\nCódigo\nimport numpy as np\nimport seaborn as sns\nimport matplotlib.pyplot as plt\nsns.set_theme(style=\"ticks\")\n\nrs = np.random.RandomState(11)\nx = rs.gamma(2, size=1000)\ny = -.5 * x + rs.normal(size=1000)\n\nsns.jointplot(x=x, y=y, kind=\"hex\", color=\"#4CB391\")\nplt.show()"
   },
   {
-    "objectID": "demo/demo.html",
-    "href": "demo/demo.html",
+    "objectID": "demo/index.html",
+    "href": "demo/index.html",
     "title": "Quarto Demonstration",
     "section": "",
     "text": "Quarto is based on Pandoc and uses its variation of markdown as its underlying document syntax. This document provides examples of the most commonly used markdown syntax. See the full documentation of Pandoc’s Markdown for more in-depth documentation."
   },
   {
-    "objectID": "demo/demo.html#overview",
-    "href": "demo/demo.html#overview",
+    "objectID": "demo/index.html#overview",
+    "href": "demo/index.html#overview",
     "title": "Quarto Demonstration",
     "section": "",
     "text": "Quarto is based on Pandoc and uses its variation of markdown as its underlying document syntax. This document provides examples of the most commonly used markdown syntax. See the full documentation of Pandoc’s Markdown for more in-depth documentation."
   },
   {
-    "objectID": "demo/demo.html#text-formatting",
-    "href": "demo/demo.html#text-formatting",
+    "objectID": "demo/index.html#text-formatting",
+    "href": "demo/index.html#text-formatting",
     "title": "Quarto Demonstration",
     "section": "Text Formatting",
     "text": "Text Formatting\nThe usual formatting features are supported, such as italics, bold, bold italics, superscript2, subscript2, striketrough, and verbatim code."
   },
   {
-    "objectID": "demo/demo.html#headings",
-    "href": "demo/demo.html#headings",
+    "objectID": "demo/index.html#headings",
+    "href": "demo/index.html#headings",
     "title": "Quarto Demonstration",
     "section": "Headings",
     "text": "Headings\nHeadings are defined using an increansingly number of #, going deeper in level."
   },
   {
-    "objectID": "demo/demo.html#links-and-images",
-    "href": "demo/demo.html#links-and-images",
+    "objectID": "demo/index.html#links-and-images",
+    "href": "demo/index.html#links-and-images",
     "title": "Quarto Demonstration",
     "section": "Links and images",
     "text": "Links and images\n&lt;https://quarto.org&gt; translates to https://quarto.org. To define a custom label, use the syntax [Quarto](http://quarto.org), which outputs to Quarto.\nTo embed a image, use link prefixed with !, such as ![Elephant](elephant.png).\n\n\n\nElephant"
   },
   {
-    "objectID": "demo/demo.html#lists",
-    "href": "demo/demo.html#lists",
+    "objectID": "demo/index.html#lists",
+    "href": "demo/index.html#lists",
     "title": "Quarto Demonstration",
     "section": "Lists",
     "text": "Lists\n\n\n\n\n\n\n\nMarkdown Syntax\nOutput\n\n\n\n\n* unordered list\n  + sub-item 1\n  + sub-item 2\n    - sub-sub-item 1\n\nunordered list\n\nsub-item 1\nsub-item 2\n\nsub-sub-item 1\n\n\n\n\n\n1. ordered list\n2. item 2\n   i) sub-item 1\n      A.  sub-sub-item 1\n\nordered list\nitem 2\n\nsub-item 1\n\nsub-sub-item 1\n\n\n\n\n\n1. ordered list\n2. item 2\n\n   ```python\n   print(\"Hello, World!\")\n   ```\n   A.  sub-sub-item 1\n\nordered list\nitem 2\nprint(\"Hello, World!\")\n\nsub-sub-item 1\n\n\n\n\n- [ ] Task 1\n- [x] Task 2\n\nTask 1\nTask 2\n\n\n\nterm\n: definition\n\nterm\n\ndefinition"
   },
   {
-    "objectID": "demo/demo.html#footnotes",
-    "href": "demo/demo.html#footnotes",
+    "objectID": "demo/index.html#footnotes",
+    "href": "demo/index.html#footnotes",
     "title": "Quarto Demonstration",
     "section": "Notas de rodapé",
     "text": "Notas de rodapé\n\n\nA simple and concise footnote.↩︎\nAnd here’s a footnote with multiple blocks.\nSubsequent paragraphs can be indented so that they are included in the previous footnote.\n{ some.code }\nThe whole paragraph can be indented, or just the first line, in a similar way to multi-paragraph list items.↩︎\nInlines notes are easier to write, since you don’t have to pick an identifier and move down to type the note.↩︎"
   },
   {
-    "objectID": "demo/demo.html#tables",
-    "href": "demo/demo.html#tables",
+    "objectID": "demo/index.html#tables",
+    "href": "demo/index.html#tables",
     "title": "Quarto Demonstration",
     "section": "Tables",
     "text": "Tables\nSimple tables can be written with the following syntax:\n| Right | Left | Default | Center |\n|------:|:-----|---------|:------:|\n|  12   |  12  |    12   |   12   |\n| 123   | 123  |  1233   |   123  |\n|   1   |   1  |     1   | 1      |\nWith the result:\n\n\n\nRight\nLeft\nDefault\nCenter\n\n\n\n\n12\n12\n12\n12\n\n\n123\n123\n123\n123\n\n\n1\n1\n1\n1"
   },
   {
-    "objectID": "demo/demo.html#source-code",
-    "href": "demo/demo.html#source-code",
+    "objectID": "demo/index.html#source-code",
+    "href": "demo/index.html#source-code",
     "title": "Quarto Demonstration",
     "section": "Source Code",
     "text": "Source Code\nUse ``` to delimit blocks of source code. A language can be specified for syntax highlight, or the default can be used if your language is not supported.\n```python\n1 + 1\n```\nThe language can also be specified as a class attribute, like {.python}. This form allows some specific features such as lines numbers and code filename.\n```{.python code-line-numbers=\"true\" filename=\"run.py\"}\ndef main():\n  print(\"Hello world!\")\n  simple_sum = 2 + 2\n  print(simple_sum)\n```\n\n\nrun.py\n\ndef main():\n  print(\"Hello world!\")\n  simple_sum = 2 + 2\n  print(simple_sum)"
   },
   {
-    "objectID": "demo/demo.html#raw-content",
-    "href": "demo/demo.html#raw-content",
+    "objectID": "demo/index.html#raw-content",
+    "href": "demo/index.html#raw-content",
     "title": "Quarto Demonstration",
     "section": "Raw Content",
     "text": "Raw Content\nRaw content can be included directly without Quarto parsing it using Pandoc’s raw attribute. A raw block starts with ```{= followed by a format and closing }, e.g. here’s a raw HTML block:\n```{=html}\n&lt;iframe src=\"https://quarto.org/\" width=\"500\" height=\"400\"&gt;&lt;/iframe&gt;\n```\n\nFor PDF output use a raw LaTeX block:\n```{=latex}\n\\renewcommand*{\\labelitemi}{\\textgreater}\n\\LaTeX\n```\n\n\n\n\n\n\nNotaOutput of Raw Content\n\n\n\nMind that raw content is only visible in the relevant output. In these examples, HTML raw content is not visible on PDF output, and vice versa."
   },
   {
-    "objectID": "demo/demo.html#equations",
-    "href": "demo/demo.html#equations",
+    "objectID": "demo/index.html#equations",
+    "href": "demo/index.html#equations",
     "title": "Quarto Demonstration",
     "section": "Equations",
     "text": "Equations\nUse $ to delimit inline math, and $$ for display math.\n\n\n\n\n\n\n\nMarkdown Syntax\nOutput\n\n\n\n\ninline math: $E = mc^{2}$\ninline math: \\(E = mc^{2}\\)\n\n\ndisplay math:\n\n$$E = mc^{2}$$\ndisplay math:\n\\[E = mc^{2}\\]\n\n\n\nCustom TeX macros can be defined inside $$ delimiters enclosed in a .hidden block. For HTML math processed using MathJax (the default) you can use the \\def, \\newcommand, \\renewcommand, \\newenvironment, \\renewenvironment, and \\let commands to create your own macros and environments."
   },
   {
-    "objectID": "demo/demo.html#diagrams",
-    "href": "demo/demo.html#diagrams",
+    "objectID": "demo/index.html#diagrams",
+    "href": "demo/index.html#diagrams",
     "title": "Quarto Demonstration",
     "section": "Diagrams",
     "text": "Diagrams\nQuarto has native support for Mermaid and Graphviz diagrams. For example:\n```{mermaid}\nflowchart LR\n  A[Hard edge] --&gt; B(Round edge)\n  B --&gt; C{Decision}\n  C --&gt; D[Result one]\n  C --&gt; E[Result two]\n```\n\n\n\n\n\nflowchart LR\n  A[Hard edge] --&gt; B(Round edge)\n  B --&gt; C{Decision}\n  C --&gt; D[Result one]\n  C --&gt; E[Result two]"
   },
   {
-    "objectID": "demo/demo.html#videos",
-    "href": "demo/demo.html#videos",
+    "objectID": "demo/index.html#videos",
+    "href": "demo/index.html#videos",
     "title": "Quarto Demonstration",
     "section": "Videos",
     "text": "Videos\nVideos can be included using the {{&lt; video &gt;}} shortcode. For example, embeding an YouTube video:\n{{&lt; video https://www.youtube.com/embed/wo9vZccmqwc &gt;}}\n\nVideos can be local files, or links to YouTube, Vimeo or Brightcove."
   },
   {
-    "objectID": "demo/demo.html#page-breaks",
-    "href": "demo/demo.html#page-breaks",
+    "objectID": "demo/index.html#page-breaks",
+    "href": "demo/index.html#page-breaks",
     "title": "Quarto Demonstration",
     "section": "Page Breaks",
     "text": "Page Breaks\nThe pagebreak shortcode enables you to insert a native pagebreak into a document (.e.g in LaTeX this would be a \\newpage, in MS Word a docx-native pagebreak, in HTML a page-break-after: always CSS directive, etc.):\npage 1\n\n{{&lt; pagebreak &gt;}}\n\npage 2\nNative pagebreaks are supported for HTML, LaTeX, Context, MS Word, Open Document, and ePub (for other formats a form-feed character \\f is inserted)."
   },
   {
-    "objectID": "demo/demo.html#divs-and-spans",
-    "href": "demo/demo.html#divs-and-spans",
+    "objectID": "demo/index.html#divs-and-spans",
+    "href": "demo/index.html#divs-and-spans",
     "title": "Quarto Demonstration",
     "section": "Divs and Spans",
     "text": "Divs and Spans\nDivs and Spans can be used to add attributes, classes and other identifers to arbitrary regions of content. Despite the nomenclature coming from HTML, the syntax is used in Quarto across output formats. For example, Callout Blocks are specified using div syntax, and Small Caps are specified using span syntax.\n\nDivs\nTo add a border to a region we can use the .border class:\n::: {.border}\nThis content can be styled with a border\n:::\n\nThis content can be styled with a border\n\n\n\nSpans\nA bracketed sequence of inlines will be treated as a Span if followed immediately by attributes:\n[This is *some text*]{.class key=\"val\"}\nWhen rendered to HTML will generate the output:\n&lt;span class=\"class\" data-key=\"val\"&gt;\n  This is &lt;em&gt;some text&lt;/em&gt;\n&lt;/span&gt;\n\n\nOrdering of Attributes\nBoth divs and spans in Pandoc can have any combination of identifiers, classes, and (potentially many) key-value attributes. In order for these to be recognized by Pandoc, they have to be provided in a specific order: identifiers, classes, and then key-value attributes. Any of these can be omitted, but must follow that order if they are provided. For example, the following is valid:\n[This is good]{#id .class key1=\"val1\" key2=\"val2\"}\nHowever, the following will not be recognized by Pandoc:\n[This does *not* work!]{.class key=\"val\" #id}\nThis ordering restriction applies to both divs and spans."
   },
   {
-    "objectID": "demo/demo.html#callout-blocks",
-    "href": "demo/demo.html#callout-blocks",
+    "objectID": "demo/index.html#callout-blocks",
+    "href": "demo/index.html#callout-blocks",
     "title": "Quarto Demonstration",
     "section": "Callout Blocks",
     "text": "Callout Blocks\n\nMarkdown Syntax\n:::{.callout-note}\nNote that there are five types of callouts, including: \n`note`, `tip`, `warning`, `caution`, and `important`.\n:::\n\n\nOutput\n\n\n\n\n\n\nNota\n\n\n\nNote that there are five types of callouts, including note, tip, warning, caution, and important."
   },
   {
-    "objectID": "demo/demo.html#other-blocks",
-    "href": "demo/demo.html#other-blocks",
+    "objectID": "demo/index.html#other-blocks",
+    "href": "demo/index.html#other-blocks",
     "title": "Quarto Demonstration",
     "section": "Other Blocks",
     "text": "Other Blocks\n\n\n\n\n\n\n\nMarkdown Syntax\nOutput\n\n\n\n\n&gt; Blockquote\n\nBlockquote\n\n\n\n::: {.classname}\nDiv\n:::\n\nDiv\n\n\n\n| Line Block\n|   Spaces and newlines\n|   are preserved\nLine Block\n   Spaces and newlines\n   are preserved"
   },
   {
-    "objectID": "demo/demo.html#other-spans",
-    "href": "demo/demo.html#other-spans",
+    "objectID": "demo/index.html#other-spans",
+    "href": "demo/index.html#other-spans",
     "title": "Quarto Demonstration",
     "section": "Other Spans",
     "text": "Other Spans\nTo create text in small caps, that is underlined, or that is highlighted, use a span with one of the classes .smallcaps, .underline or .mark respectively.\n\n\n\n\n\n\n\nMarkdown Syntax\nOutput\n\n\n\n\n[This text is smallcaps]{.smallcaps}\nThis text is smallcaps\n\n\n[This text is underlined]{.underline}\nThis text is underlined\n\n\n[This text is highlighted]{.mark}\nThis text is highlighted\n\n\n\n\n\n\n\n\n\nNotaIn supported formats only\n\n\n\nSupport for these classes comes directly from Pandoc. Not all formats support all of these classes. In particular, .mark is not currently supported in format: pptx."
   },
   {
-    "objectID": "demo/demo.html#special-characters",
-    "href": "demo/demo.html#special-characters",
+    "objectID": "demo/index.html#special-characters",
+    "href": "demo/index.html#special-characters",
     "title": "Quarto Demonstration",
     "section": "Special Characters",
     "text": "Special Characters\n\n\n\n\n\n\n\nMarkdown Syntax\nOutput\n\n\n\n\nendash: --\nendash: –\n\n\nemdash: ---\nemdash: —"
   },
   {
-    "objectID": "demo/demo.html#keyboard-shortcuts",
-    "href": "demo/demo.html#keyboard-shortcuts",
+    "objectID": "demo/index.html#keyboard-shortcuts",
+    "href": "demo/index.html#keyboard-shortcuts",
     "title": "Quarto Demonstration",
     "section": "Keyboard Shortcuts",
     "text": "Keyboard Shortcuts\nThe kbd shortcode can be used to describe keyboard shortcuts in documentation:\n\nsingle keyboard shortcuts for every operating system use a positional parameter: {{&lt; kbd Ctrl-C &gt;}}\ndifferent shortcuts for different operating systems use keyword parameters win, mac, and linux: {{&lt; kbd mac=Shift-Command-O win=Shift-Control-O linux=Shift-Ctrl-L &gt;}}\n\nOn Javascript formats, Quarto will attempt to detect the operating system of the format and show the correct shortcut. On print formats, it will print the keyboard shortcut information for all operating systems.\nFor example, writing the following markdown:\nTo print, press {{&lt; kbd Shift-Ctrl-P &gt;}}. To open an existing new project,\npress {{&lt; kbd mac=Shift-Command-O win=Shift-Control-O linux=Shift-Ctrl-L &gt;}}.\nwill render the keyboard shortcuts as:\nTo print, press Shift-Ctrl-PShift-Ctrl-P. To open an existing new project, press ."
