@@ -6,4 +6,6 @@ listing:
   categories: true
   sort-ui: true
   filter-ui: true
+  exclude:
+    archive: true
 ---
