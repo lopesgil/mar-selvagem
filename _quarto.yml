@@ -14,13 +14,13 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: blog.qmd
+      - href: posts/index.qmd
         text: Blog
       - text: "More"
         menu: 
-          - presentations.qmd
-          - demo/demo.qmd
-          - about.qmd
+          - presentations/index.qmd
+          - demo/index.qmd
+          - about/index.qmd
 
 format:
   html:

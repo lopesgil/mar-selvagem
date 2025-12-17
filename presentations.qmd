@@ -1,7 +1,0 @@
----
-title: Presentations
----
-
-## Habits
-
-{{< revealjs presentations/habits.html >}}
